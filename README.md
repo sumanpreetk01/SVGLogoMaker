@@ -30,6 +30,7 @@ N/A
 
 ## Test
 Users may user Jest to test this application.
+Link to the walkthrough video is here: <iframe src="https://drive.google.com/file/d/1_2Z86CxUnV84icjNabwJEr1El_A2PAM4/preview" width="640" height="480"></iframe>
 
 ## Questions?
 My GitHub username:
