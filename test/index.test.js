@@ -3,7 +3,7 @@ const {Triangle,Circle,Square} = require("../lib/shapes")
  test('Triangle shape colour is blue', () => {
     const shape = new Triangle();
     shape.shapeColour = "blue";
-    expect(shape.render()).toBe('<polygon points="150,10 300,190 20,190" style="fill:blue" />');
+    expect(shape.render()).toBe('<polygon points="140,10 300,190 10,190" style="fill:blue" />');
  });
 
  test('Circle shape colour is green', () => {
